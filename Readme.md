@@ -1,6 +1,6 @@
 # Touchless LED Control with Hand Gestures! 🤚💡
 
-![demo-gif](demo.gif)  
+![demo-gif](demoo.gif)  
 *Move index finger into box to toggle the LED!*
 
 Control an LED connected to your Arduino without ever touching a button — simply move your hand in front of your webcam to turn the LED ON or OFF.
